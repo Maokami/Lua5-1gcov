@@ -23,14 +23,8 @@ AR= ar rcu
 RANLIB= ranlib
 RM= rm -f
 
-MYCFLAGS= $(LOCAL)
-MYLDFLAGS=
-MYLIBS=
-
-
-# enable Linux goodies
-MYCFLAGS= $(LOCAL) -DLUA_USE_LINUX
-MYLDFLAGS= -Wl,-E
+MYCFLAGS= $(LOCAL) -DLUA_USE_LINUX -fprofile-arcs -ftest-coverage
+MYLDFLAGS= -Wl,-E -fprofile-arcs -ftest-coverage
 MYLIBS= -ldl -lreadline -lhistory -lncurses
 
 
