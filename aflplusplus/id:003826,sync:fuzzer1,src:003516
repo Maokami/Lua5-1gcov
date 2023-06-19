@@ -1,0 +1,6 @@
+debug = function() end
+debug : traceback[[ 0
+$]]; debug : traceback[[ 0
+$]]; debug : traceback[[ 0
+$]]; c[[
+]]; 

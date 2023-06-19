@@ -1,0 +1,3 @@
+debug = function() end
+e, utf8, c, math, debug, string, debug, self, utf8 = ( [[
+]] ) : gmatch""; table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, b = (nil), e[[]]; 

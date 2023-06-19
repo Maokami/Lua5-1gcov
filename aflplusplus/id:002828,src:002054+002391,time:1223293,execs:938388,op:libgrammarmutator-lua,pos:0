@@ -1,0 +1,4 @@
+debug = function() end
+( [[
+ .
+]] ) : gsub[[/]]; 

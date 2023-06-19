@@ -1,0 +1,2 @@
+debug = function() end
+( function (...) os : difftime(( (function (...) local os, self = ..., debug, ..., "";  end) )(..., ...), (#{}), (nil), ...);  end )(( (function (...) local os, self = ..., debug, ..., "";  end) )(), (#{}), (nil), ...); 

@@ -1,0 +1,2 @@
+debug = function() end
+( ( "$" ) : gsub("", "00000000000000000") ) : upper(); 

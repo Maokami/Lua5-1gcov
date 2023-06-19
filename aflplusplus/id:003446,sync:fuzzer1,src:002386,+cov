@@ -1,0 +1,2 @@
+debug = function() end
+d = (0xF1CF); ( io : tmpfile() ) : write([[.a]], {}, (nil)); ( (... .. {}) ){...}; 

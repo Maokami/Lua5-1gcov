@@ -1,0 +1,2 @@
+debug = function() end
+( function (...) e, self, table, e = {...};  end )(((1.71)), (0xca1aB), (nil)); 

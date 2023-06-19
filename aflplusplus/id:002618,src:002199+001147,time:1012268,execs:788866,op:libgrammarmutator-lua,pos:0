@@ -1,0 +1,3 @@
+debug = function() end
+( [[.//
+]] ) : rep(((0xdFef)), (nil), {[(true)]=(10e5)}); 

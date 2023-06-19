@@ -1,0 +1,2 @@
+debug = function() end
+for d="", {}, c do b{};  end; 

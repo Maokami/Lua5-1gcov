@@ -1,0 +1,4 @@
+debug = function() end
+( [[ \n\v
+
+0]] ) : find[[$]]; 

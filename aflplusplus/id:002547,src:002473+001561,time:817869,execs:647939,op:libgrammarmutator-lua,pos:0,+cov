@@ -1,0 +1,2 @@
+debug = function() end
+( io : tmpfile"" ) : read(io : tmpfile((0xb), (true))); 

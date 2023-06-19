@@ -1,0 +1,3 @@
+debug = function() end
+( [[
+\r]] ) : format(( "$" ) : format("")); 

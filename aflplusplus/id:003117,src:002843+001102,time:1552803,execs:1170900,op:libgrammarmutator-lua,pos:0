@@ -1,0 +1,2 @@
+debug = function() end
+local io, io = (((d or (d or (nil))) and (nil)) or (nil)), (d or (nil)); 

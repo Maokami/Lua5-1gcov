@@ -1,0 +1,3 @@
+debug = function() end
+a((" \b.\v\v
+" .. a)); 

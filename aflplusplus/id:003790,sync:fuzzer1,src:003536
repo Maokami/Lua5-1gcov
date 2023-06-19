@@ -1,0 +1,3 @@
+debug = function() end
+debug : setmetatable({[function (io, ...) a = (true), b(...); return function (...) local b = ..., (true);  end;  end]=(false)}); ( ( ".$$$$$$$$$$$$$$$$$" ) : rep((0xbBF)) )[[
+]]; 

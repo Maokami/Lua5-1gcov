@@ -1,0 +1,2 @@
+debug = function() end
+( [[\u{b}]] ) : byte((5.3e407)); 

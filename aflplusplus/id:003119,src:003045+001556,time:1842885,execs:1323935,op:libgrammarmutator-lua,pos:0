@@ -1,0 +1,2 @@
+debug = function() end
+local e = (table : concat(table : insert[[0 ]])^(#(table : concat()^(table : concat()^(table : concat()^(table : concat()^(table : concat()^(table : concat()^(table : concat()^(#{[(46)]=[[0./0]]})))))))))); 

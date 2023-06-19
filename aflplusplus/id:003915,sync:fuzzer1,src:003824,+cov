@@ -1,0 +1,2 @@
+debug = function() end
+math : atan(table : remove((nil), table : insert({}))); 

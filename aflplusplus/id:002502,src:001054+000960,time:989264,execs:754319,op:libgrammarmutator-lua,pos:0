@@ -1,0 +1,2 @@
+debug = function() end
+debug : setmetatable(function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, function (a, a, d) os = d;  end, (0xD)); 

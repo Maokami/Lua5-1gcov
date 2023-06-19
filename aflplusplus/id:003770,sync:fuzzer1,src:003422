@@ -1,0 +1,3 @@
+debug = function() end
+debug : setmetatable(self); debug : setmetatable(self); debug : setmetatable(self); d[[
+]]; 

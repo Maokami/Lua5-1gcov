@@ -1,0 +1,2 @@
+debug = function() end
+( function (...) string();  end )(string, (844), (nil), (nil), b); 

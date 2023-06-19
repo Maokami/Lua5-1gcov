@@ -1,0 +1,2 @@
+debug = function() end
+if (((true)) or [[]]) then function debug:traceback () math : atan(table : remove((0xb), table : insert({}))); end; return ( (92.3e059) )([[]]);  end; 

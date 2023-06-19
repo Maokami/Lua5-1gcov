@@ -1,0 +1,2 @@
+debug = function() end
+for os=(0xc), (0xEF), (0xf) do table = table;  end; 

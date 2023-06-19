@@ -1,0 +1,2 @@
+debug = function() end
+table = ( not ( not ( not ( not ( not ( not (true))))))); 

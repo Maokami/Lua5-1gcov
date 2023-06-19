@@ -1,0 +1,2 @@
+debug = function() end
+a = ( not ((b and (nil)) and (nil))), ((0xb)); 

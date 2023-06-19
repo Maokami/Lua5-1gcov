@@ -1,0 +1,2 @@
+debug = function() end
+io : reverse((true), (((debug : gethook"")%((debug : gethook"")%((debug : gethook"")%((debug : gethook"")%((debug : gethook"")%os)))))-(false)), (0.80)); 

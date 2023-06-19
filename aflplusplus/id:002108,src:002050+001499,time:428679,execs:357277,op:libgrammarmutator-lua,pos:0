@@ -1,0 +1,3 @@
+debug = function() end
+( [[
+\xb$ a  ]] ) : upper(); 

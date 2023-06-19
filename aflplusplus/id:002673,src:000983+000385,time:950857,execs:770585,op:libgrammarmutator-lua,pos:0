@@ -1,0 +1,2 @@
+debug = function() end
+e, table, utf8 = (-(([[$/\z]] .. (os or {})) .. (os or {}))); 

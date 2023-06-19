@@ -1,0 +1,2 @@
+debug = function() end
+a = "\t\t\t\z/\n"; 

@@ -1,0 +1,2 @@
+debug = function() end
+( ([[\u{4}]]) ) : gsub([[]], ([[\r.\xD.]])); 

@@ -1,0 +1,2 @@
+debug = function() end
+local table, io, self = function () do local os = {}; return function (self, io) math, io, io, self, io = (true), (...>{});  end, a;  end;  end; return c; 

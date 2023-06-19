@@ -1,0 +1,2 @@
+debug = function() end
+for d=(#os), (9), "0.0" do a();  end; return ...; 

@@ -1,0 +1,2 @@
+debug = function() end
+a, c, e = {e,(false),(7.01e-4)}; function a:G (...) d[[]]; end; 

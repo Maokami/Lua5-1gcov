@@ -1,0 +1,2 @@
+debug = function() end
+repeat local c = io, d; b = function (package, c, ...) d = c;  end; b = function (package, c, ...) d = c;  end; b = function (package, c, ...) d = c;  end; b""; break;  until ({}); 

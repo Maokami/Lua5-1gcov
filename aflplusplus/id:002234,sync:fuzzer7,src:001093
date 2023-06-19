@@ -1,0 +1,2 @@
+debug = function() end
+local table, io, self = table; return table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, table, string; 

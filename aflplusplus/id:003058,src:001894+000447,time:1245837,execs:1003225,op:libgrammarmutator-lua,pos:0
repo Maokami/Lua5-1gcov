@@ -1,0 +1,3 @@
+debug = function() end
+table : concat(table : concat[[
+a]]); 

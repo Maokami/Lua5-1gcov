@@ -1,0 +1,2 @@
+debug = function() end
+local a = a; b = ((#{[math]=(a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or {stdin=( [[]] ) : format((false))}))))))))))))))))})*(nil)); 

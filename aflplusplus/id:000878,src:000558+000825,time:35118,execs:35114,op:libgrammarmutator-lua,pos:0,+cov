@@ -1,0 +1,2 @@
+debug = function() end
+a, table, utf8 = ((debug or ...) or (a or (a or (a or (a or self))))); 

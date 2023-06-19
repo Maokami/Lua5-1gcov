@@ -1,0 +1,2 @@
+debug = function() end
+( [[	0	/\b a]] ) : reverse(); 
