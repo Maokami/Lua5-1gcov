@@ -7,7 +7,8 @@ cnt=$(ls ./fuzz_lparse | wc -l)
 echo $cnt files
 
 # iterate over files
-#for filename in ./aflplusplus/* ; do
+#for filename in ./grammar-mutator/* ; do
+#for filename in ./fuzz_llex/* ; do
 for filename in ./fuzz_lparse/* ; do
     echo "Processing $filename"
 
