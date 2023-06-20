@@ -1,0 +1,211 @@
+File 'lapi.c'
+Lines executed:57.78% of 668
+Branches executed:56.40% of 766
+Taken at least once:30.68% of 766
+Calls executed:17.30% of 318
+Creating 'lapi.c.gcov'
+
+File 'lauxlib.c'
+Lines executed:32.40% of 321
+Branches executed:42.86% of 154
+Taken at least once:27.27% of 154
+Calls executed:34.59% of 159
+Creating 'lauxlib.c.gcov'
+
+File 'lbaselib.c'
+Lines executed:14.56% of 371
+Branches executed:10.08% of 129
+Taken at least once:6.20% of 129
+Calls executed:13.36% of 262
+Creating 'lbaselib.c.gcov'
+
+File 'lcode.c'
+Lines executed:97.05% of 509
+Branches executed:100.00% of 291
+Taken at least once:82.82% of 291
+Calls executed:81.82% of 176
+Creating 'lcode.c.gcov'
+
+File 'ldblib.c'
+Lines executed:14.34% of 244
+Branches executed:20.00% of 100
+Taken at least once:13.00% of 100
+Calls executed:13.12% of 160
+Creating 'ldblib.c.gcov'
+
+File 'ldebug.c'
+Lines executed:66.76% of 349
+Branches executed:75.50% of 351
+Taken at least once:48.72% of 351
+Calls executed:40.00% of 65
+Creating 'ldebug.c.gcov'
+
+File 'ldo.c'
+Lines executed:54.66% of 322
+Branches executed:44.26% of 244
+Taken at least once:27.05% of 244
+Calls executed:23.15% of 108
+Creating 'ldo.c.gcov'
+
+File 'ldump.c'
+Lines executed:0.00% of 85
+Branches executed:0.00% of 31
+Taken at least once:0.00% of 31
+Calls executed:0.00% of 37
+Creating 'ldump.c.gcov'
+
+File 'lfunc.c'
+Lines executed:57.14% of 112
+Branches executed:28.57% of 56
+Taken at least once:21.43% of 56
+Calls executed:48.28% of 29
+Creating 'lfunc.c.gcov'
+
+File 'lgc.c'
+Lines executed:84.86% of 436
+Branches executed:81.56% of 423
+Taken at least once:57.45% of 423
+Calls executed:44.63% of 121
+Creating 'lgc.c.gcov'
+
+File 'linit.c'
+Lines executed:100.00% of 7
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 3
+Creating 'linit.c.gcov'
+
+File 'liolib.c'
+Lines executed:13.89% of 288
+Branches executed:8.93% of 112
+Taken at least once:7.14% of 112
+Calls executed:14.84% of 182
+Creating 'liolib.c.gcov'
+
+File 'llex.c'
+Lines executed:97.46% of 276
+Branches executed:100.00% of 232
+Taken at least once:94.40% of 232
+Calls executed:90.43% of 115
+Creating 'llex.c.gcov'
+
+File 'lmathlib.c'
+Lines executed:7.09% of 127
+Branches executed:0.00% of 16
+Taken at least once:0.00% of 16
+Calls executed:8.54% of 82
+Creating 'lmathlib.c.gcov'
+
+File 'lmem.c'
+Lines executed:73.91% of 23
+Branches executed:83.33% of 12
+Taken at least once:41.67% of 12
+Calls executed:25.00% of 8
+Creating 'lmem.c.gcov'
+
+File 'loadlib.c'
+Lines executed:12.65% of 253
+Branches executed:4.65% of 86
+Taken at least once:3.49% of 86
+Calls executed:13.95% of 172
+Creating 'loadlib.c.gcov'
+
+File 'lobject.c'
+Lines executed:74.58% of 118
+Branches executed:89.47% of 76
+Taken at least once:61.84% of 76
+Calls executed:48.39% of 31
+Creating 'lobject.c.gcov'
+
+File 'loslib.c'
+Lines executed:2.50% of 120
+Branches executed:0.00% of 34
+Taken at least once:0.00% of 34
+Calls executed:1.20% of 83
+Creating 'loslib.c.gcov'
+
+File 'lparser.c'
+Lines executed:97.50% of 841
+Branches executed:100.00% of 332
+Taken at least once:87.05% of 332
+Calls executed:86.96% of 368
+Creating 'lparser.c.gcov'
+
+File 'lstate.c'
+Lines executed:85.11% of 141
+Branches executed:72.22% of 36
+Taken at least once:38.89% of 36
+Calls executed:58.54% of 41
+Creating 'lstate.c.gcov'
+
+File 'lstring.c'
+Lines executed:97.14% of 70
+Branches executed:100.00% of 42
+Taken at least once:71.43% of 42
+Calls executed:40.00% of 15
+Creating 'lstring.c.gcov'
+
+File 'lstrlib.c'
+Lines executed:3.07% of 521
+Branches executed:0.00% of 330
+Taken at least once:0.00% of 330
+Calls executed:6.70% of 179
+Creating 'lstrlib.c.gcov'
+
+File 'ltable.c'
+Lines executed:76.92% of 286
+Branches executed:64.13% of 223
+Taken at least once:53.81% of 223
+Calls executed:52.24% of 67
+Creating 'ltable.c.gcov'
+
+File 'ltablib.c'
+Lines executed:1.92% of 156
+Branches executed:0.00% of 59
+Taken at least once:0.00% of 59
+Calls executed:0.90% of 111
+Creating 'ltablib.c.gcov'
+
+File 'ltests.c'
+Lines executed:9.16% of 622
+Branches executed:8.21% of 487
+Taken at least once:5.95% of 487
+Calls executed:2.60% of 385
+Creating 'ltests.c.gcov'
+
+File 'ltm.c'
+Lines executed:91.30% of 23
+Branches executed:100.00% of 11
+Taken at least once:72.73% of 11
+Calls executed:50.00% of 4
+Creating 'ltm.c.gcov'
+
+File 'lua.c'
+Lines executed:44.54% of 229
+Branches executed:41.33% of 150
+Taken at least once:25.33% of 150
+Calls executed:39.83% of 118
+Creating 'lua.c.gcov'
+
+File 'lundump.c'
+Lines executed:0.00% of 131
+Branches executed:0.00% of 59
+Taken at least once:0.00% of 59
+Calls executed:0.00% of 62
+Creating 'lundump.c.gcov'
+
+File 'lvm.c'
+Lines executed:52.12% of 495
+Branches executed:51.56% of 737
+Taken at least once:32.16% of 737
+Calls executed:23.19% of 207
+Creating 'lvm.c.gcov'
+
+File 'lzio.c'
+Lines executed:72.50% of 40
+Branches executed:80.00% of 20
+Taken at least once:50.00% of 20
+Calls executed:42.86% of 7
+Creating 'lzio.c.gcov'
+
+Lines executed:50.04% of 8184
