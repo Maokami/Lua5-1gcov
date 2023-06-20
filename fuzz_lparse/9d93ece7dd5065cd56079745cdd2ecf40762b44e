@@ -1,0 +1,5 @@
+if true then
+  local a = 20
+  local b = "bbbbb"  local a = 20
+  lot (b)
+end
